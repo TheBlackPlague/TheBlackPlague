@@ -1,10 +1,10 @@
 # ![Boy Icon](boy.png) Shaheryar Sohail ![Boy Icon](boy.png)
 
-## Self-taught
+## **Self-taught**
 One of the things that gives me the most pride is that all the programming languages I know, are all self-taught. I haven't been taught them by anyone or any institution.
 
-## Multilingual
-While I am proficient in English, speak well in Urdu, and can understand a bit of Chinese, by multilingual I am referring to proficiency in multiple programming languages. 
+## **Multilingual**
+While I am proficient in English, speak well in Urdu, and can understand a bit of Chinese, by multilingual I am referring to proficiency in multiple programming languages.
 
 <img src="https://www.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="C#" width="50"/>
 
