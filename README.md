@@ -14,6 +14,12 @@ While I am proficient in English, speak well in Urdu, and can understand a bit o
 Console.WriteLine("I have multiple Unity projects, standalone applications. Currently writing a real-life economy simulation system in C#.");
 Console.WriteLine("I have written a deep neural network in C# using ML.NET.");
 ```
+**Open-source projects in C#:**
+
+- [Alex](https://github.com/kennyvv/Alex)
+- [PhyED](https://github.com/TheBlackPlague/PhyED)
+- [Neubert](https://github.com/TheBlackPlague/Neubert) (incomplete)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/>
 
 ```php
@@ -21,11 +27,21 @@ echo("Despite what the language is SUPPOSED to be used for, I've used it to work
 echo("Since NetherGames uses PocketMine, a Minecraft server software written in PHP, most of my work supporting the development and developing extra features has been done in PHP.");
 echo("PS: libReplay, a high-level game-replay recording & playback framework for NetherGames, is written in PHP.");
 ```
+**Open-source projects in PHP:**
+
+- [libReplay](https://github.com/NetherGamesMC/libReplay)
+- [YouTube Cache Problem Solution](https://github.com/TheBlackPlague/YouTubeCache)
+- [PlagueEntity](https://github.com/TheBlackPlague/PlagueEntity)
+
 ![Python](python.png)
 ```py
 print("I have worked with Tensorflow in Python.")
 print("Furthermore, I have done multiple data crunching using Python to convert raw data into useable data for artificial intelligence models written in both Python and C#.")
 ```
+**Open-source projects in Python:**
+
+- [Tensorflow Scratchbook](https://github.com/TheBlackPlague/TensorflowExample)
+- [TensorPiChat](https://github.com/TheBlackPlague/TensorPiChat)
 
 ### Other languages that I know, but haven't done anything significant in... yet:
 ![Java](java.png) ![Swift](swift.png) ![Javascript](javascript.png)
@@ -41,3 +57,4 @@ print("Furthermore, I have done multiple data crunching using Python to convert 
 - <a href="https://iconscout.com/icons/java" target="_blank">Java Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
 - <a href="https://iconscout.com/icons/swift" target="_blank">Swift Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
 - <a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+- <a href="https://iconscout.com/icons/code" target="_blank">Code Icon</a> by <a href="https://iconscout.com/contributors/minimo">Neelpari Minimo</a> on <a href="https://iconscout.com">Iconscout</a>
