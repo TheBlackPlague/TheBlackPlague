@@ -10,7 +10,7 @@ While I am proficient in English, speak well in Urdu, and can understand a bit o
 
 ```cs
 Console.WriteLine("I have multiple Unity projects, standalone applications. Currently writing a real-life economy simulation system in C#.");
-Console.WriteLine("I have written a deep neural network in C# using ML.NET.");
+Console.WriteLine("I have written a deep neural network in C# using Tensorflow.NET.");
 ```
 **Open-source projects in C#:**
 
