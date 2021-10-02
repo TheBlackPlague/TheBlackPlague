@@ -4,7 +4,7 @@
 One of the things that give me the most pride is that all the programming languages I know are self-taught. Anyone or any institution hasn't taught me them.
 
 ## ![Multilingual](code.png) **Multilingual** ![Multilingual](code.png)
-While I am proficient in English, speak well in Urdu, and can understand a bit of Chinese, by multilingual, I am referring to proficiency in multiple programming languages.
+While I am proficient in English, speak well in Urdu, and can understand a bit of Chinese. By multilingual, I am referring to proficiency in multiple programming languages.
 
 <img src="https://www.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="C#" width="50"/>
 
